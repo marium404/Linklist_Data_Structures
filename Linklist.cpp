@@ -157,7 +157,9 @@ void display(){
 
 
 
-int main(){	
+int main(){
+	
+	system("color 04");
 
 	cout << "1: Create list" << endl;																		
 	cout << "2: Insert new node at start" << endl;			
